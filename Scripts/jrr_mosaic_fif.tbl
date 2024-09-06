@@ -1,0 +1,14 @@
+\char comment = Output from Mosaic_INT
+\char Date-Time = Tue Aug  5 16:44:30 2014
+\char PROJTYPE = 'TAN'
+\real  CRVAL1 = RA_GOES_HERE
+\real  CRVAL2 = DEC_GOES_HERE
+\real  CRPIX1 = 1100.5
+\real  CRPIX2 = 1100.5
+\real  CROTA2 = 0.000000
+\int   NAXIS1 = 2200
+\int   NAXIS2 = 2200
+\real  CDELT1 = -0.000166670
+\real  CDELT2 =  0.000166670
+\char CTYPE1 = "RA---TAN"
+\char CTYPE2 = "DEC--TAN"
